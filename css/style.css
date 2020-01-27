@@ -1338,6 +1338,10 @@ a.selected-item:before, .side-menu a:hover:before {
 }
 .back-to-top:hover {opacity: 1;}
 
+.count{
+	z-index: 100;
+}
+
 /* End  Back to top button */
 
 
