@@ -1340,6 +1340,10 @@ a.selected-item:before, .side-menu a:hover:before {
 
 .count{
 	z-index: 100;
+	position: fixed;
+	float: right;
+	
+	
 }
 
 /* End  Back to top button */
