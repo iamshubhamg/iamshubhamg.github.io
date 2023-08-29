@@ -205,16 +205,16 @@ step: function (now) {
 
 		// start numbers animate at skills section //
 		$("#chart_num_1").animateNumber({
-			number: 75		// Change to your number
+			number: 65		// Change to your number
 		}, 1500);
 		$("#chart_num_2").animateNumber({
-			number: 85		// Change to your number
+			number: 75		// Change to your number
 		}, 1500);
 		$("#chart_num_3").animateNumber({
-			number: 70	// Change to your number
+			number: 90	// Change to your number
 		}, 1500);
 		$("#chart_num_4").animateNumber({
-			number: 65		// Change to your number
+			number: 85		// Change to your number
 		}, 1500);
 	}, {
 		accX: 0,
