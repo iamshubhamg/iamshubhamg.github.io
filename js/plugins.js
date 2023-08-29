@@ -177,7 +177,7 @@ step: function (now) {
 });
 		var currentNumber = $('#number_3').text();
 
-$({numberValue: currentNumber}).animate({numberValue:87.97}, {
+$({numberValue: currentNumber}).animate({numberValue:92}, {
 duration: 2500,
 easing: 'linear',
 step: function (now) {
